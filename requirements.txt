@@ -1,9 +1,10 @@
+numpy
+seaborn
+opencv-python
 streamlit
 pandas
-numpy
 scikit-learn
-matplotlib
-seaborn
 joblib
-opencv-python
+matplotlib
 openpyxl
+opencv-python-headless
